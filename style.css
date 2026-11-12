@@ -93,3 +93,18 @@ footer {
     text-align: center;
     padding: 18px;
 }
+
+.skills-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.skill {
+    background-color: #dbeafe;
+    color: #14213d;
+    padding: 15px 25px;
+    border-radius: 8px;
+    font-weight: bold;
+}
